@@ -93,3 +93,4 @@ WHERE id IN (
         SELECT AVG(total_amount) FROM orders
     )
 );
+
